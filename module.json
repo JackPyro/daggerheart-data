@@ -1,7 +1,9 @@
 {
   "id": "daggerheart-data",
   "title": "Daggerheart Data",
-  "version": "0.1.0",
+  "version": "#{VERSION}#",
+  "manifest": "#{MANIFEST}#",
+  "download": "#{DOWNLOAD}#",
   "compatibility": {
     "minimum": "11",
     "verified": "11"
