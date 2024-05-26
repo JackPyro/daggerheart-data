@@ -110,6 +110,30 @@
       },
       "system": "daggerheart",
       "flags": {}
+    },
+    {
+      "name": "items",
+      "label": "Items",
+      "path": "packs/items",
+      "type": "Item",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "system": "daggerheart",
+      "flags": {}
+    },
+    {
+      "name": "consumable",
+      "label": "Consumables",
+      "path": "packs/consumable",
+      "type": "Item",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "system": "daggerheart",
+      "flags": {}
     }
   ]
 }
